@@ -1,31 +1,31 @@
 {
-  "parameters": [
+  [
   {
-    "id": "20ef9fcc-4161-4b27-8c10-886269fa450f",
+    "id": "7deac519-f6ae-4113-9c91-a3039aeec6c7",
     "name": "Температура за окном",
-    "parameterType": 0,
+    "parameterType": "Analog",
     "data": {
       "Unit": "°C"
     }
   },
   {
-    "id": "84aafc26-3fd4-4e4d-b1f1-6c0e693c10d1",
+    "id": "69f8d409-f36b-4348-813e-f815f169767b",
     "name": "Влажность воздуха",
-    "parameterType": 0,
+    "parameterType": "Analog",
     "data": {
       "Unit": "%"
     }
   },
   {
-    "id": "c16ea5af-c370-4e94-b365-27c942b1bcdd",
+    "id": "b87e4f7e-5d4b-469e-ac28-e92ae901da98",
     "name": "Свет. Зал",
-    "parameterType": 1,
+    "parameterType": "Discrete",
     "data": null
   },
   {
-    "id": "ea9b1aa4-9aef-4c95-a5bc-e9ef74a0f56b",
+    "id": "6a7054d9-5b6a-4d76-9f1d-30d3fa7a77bc",
     "name": "Свет. Ванная комната",
-    "parameterType": 1,
+    "parameterType": "Discrete",
     "data": null
   }
 ]
