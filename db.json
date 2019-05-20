@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "parameters": [
     {
       "id": 1,
       "title": "Post 1"
@@ -12,21 +12,5 @@
       "id": 3,
       "title": "Post 3"
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-  "parameters":[{"id":"20ef9fcc-4161-4b27-8c10-886269fa450f","name":"Температура за окном","parameterType":0,"data":{"Unit":"°C"}},{"id":"84aafc26-3fd4-4e4d-b1f1-6c0e693c10d1","name":"Влажность воздуха","parameterType":0,"data":{"Unit":"%"}},{"id":"c16ea5af-c370-4e94-b365-27c942b1bcdd","name":"Свет. Зал","parameterType":1,"data":null},{"id":"ea9b1aa4-9aef-4c95-a5bc-e9ef74a0f56b","name":"Свет. Ванная комната","parameterType":1,"data":null}]
+  ] 
 }
