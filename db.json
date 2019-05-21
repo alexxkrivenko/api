@@ -4,7 +4,7 @@
     "id": "7deac519-f6ae-4113-9c91-a3039aeec6c7",
     "name": "Температура за окном",
     "parameterType": "Analog",
-    "value" : 123.8
+    "value" : 123.8,
     "data": {
       "Unit": "°C"
     }
