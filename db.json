@@ -29,5 +29,28 @@
     "parameterType": "Discrete",
     "data": null
   }
+],
+  "units":
+  [
+   {
+      "name":"°C",
+      "id":"fcaed2a4-9e62-481c-bf26-cdd2c20d2a69"
+   },
+   {
+      "name":"%",
+      "id":"7df50544-0894-447f-96aa-18956f19001d"
+   },
+   {
+      "name":"мм.",
+      "id":"7c47d504-e75d-40b3-a41a-c7c007468a34"
+   },
+   {
+      "name":"м.",
+      "id":"7a4e3658-14b5-4fe7-a0e6-1999f11a4340"
+   },
+   {
+      "name":"сек.",
+      "id":"6f8f45af-2a65-4a96-a855-cc4d1e5667c9"
+   }
 ]
 }
